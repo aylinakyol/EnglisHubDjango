@@ -1,0 +1,1 @@
+sudo docker compose --env-file ~/Projects/EnglisHub/EnglisHubCommon/dev-environment.env -f ~/Projects/EnglisHub/EnglisHubCommon/dev-compose.yml up -d
